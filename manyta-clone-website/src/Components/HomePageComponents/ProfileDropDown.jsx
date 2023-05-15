@@ -31,6 +31,7 @@ const ProfileDropDown = ({ title, color }) => {
           <button>LOGIN/SIGNUP</button>
         </Link>
           }
+          {/* <h1>bye</h1> */}
             <Link to="adminlogin">
               <button>Admin LOGIN </button>
             </Link>
